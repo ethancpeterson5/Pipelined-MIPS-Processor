@@ -1,0 +1,85 @@
+# vsim -c -voptargs="+acc" tb -do "../testpy/modelsim_framework.do" 
+# Start time: 18:01:23 on Dec 10,2021
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim-64
+# //  Version 2021.2 linux_x86_64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb(mixed)#1
+# Loading work.mips_processor(structure)#1
+# Loading ieee.numeric_std(body)
+# Loading work.mem(rtl)#1
+# Loading work.pcreg(mixed)#1
+# Loading work.ripplecarryadd_n(structural)#1
+# Loading work.fulladder(structure)#1
+# Loading work.andg2(dataflow)#1
+# Loading work.xorg2(dataflow)#1
+# Loading work.org2(dataflow)#1
+# Loading work.reg_ifid(structural)#1
+# Loading work.register_64(structural)#1
+# Loading work.controlunit(behavior)#1
+# Loading work.alucontrol(behavior)#1
+# Loading work.signextender(dataflow)#1
+# Loading work.shiftleft2(dataflow)#1
+# Loading work.mux2t1_n(structural)#1
+# Loading work.mux2t1(structural)#1
+# Loading work.invg(dataflow)#1
+# Loading work.shiftleft226bit(dataflow)#1
+# Loading work.mux2t1_5(structural)#1
+# Loading work.mux4t1_n(behavior)#1
+# Loading work.busarray
+# Loading work.registerfile(structural)#1
+# Loading work.decoder32bit(dataflow)#1
+# Loading work.dffg_nbit(structural)#1
+# Loading work.mux32bit32to1(dataflow)#1
+# Loading work.comparator32(structural)#1
+# Loading work.xor32(dataflow)#1
+# Loading work.or32to1(dataflow)#1
+# Loading work.reg_idex(structural)#1
+# Loading work.register_186(structural)#1
+# Loading work.controlhazarddetection(behavior)#1
+# Loading work.mux2t1_7(structural)#1
+# Loading work.alu(structural)#1
+# Loading work.addsub(structural)#1
+# Loading work.adder_n(structural)#1
+# Loading work.adder(structure)#1
+# Loading work.onescomp(structural)#1
+# Loading work.and32(dataflow)#1
+# Loading work.or32(dataflow)#1
+# Loading work.nor32(dataflow)#1
+# Loading work.repl(dataflow)#1
+# Loading work.shifter(structural)#1
+# Loading work.mux32_16t1(dataflow)#1
+# Loading work.reg_exmem(structural)#1
+# Loading work.register_138(structural)#1
+# Loading work.reg_memwb(structural)#1
+# Loading work.register_137(structural)#1
+# Loading work.forwardingunit(behavior)#1
+# do ../testpy/modelsim_framework.do
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb/MyMips/DMem
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /tb/MyMips/IMem
+# ** Note: Data structure takes 44099176 bytes of memory
+#          Process time 0.16 seconds
+#          stop
+#    Time: 640 ns  Iteration: 1  Instance: /tb
+# Break in Process P_DUMP_STATE at /home/ethanp1/ethanp1/Project2/src/tb.vhd line 146
+# Stopped at /home/ethanp1/ethanp1/Project2/src/tb.vhd line 146
+# End time: 18:01:24 on Dec 10,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 2
