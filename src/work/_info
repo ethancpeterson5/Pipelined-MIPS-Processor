@@ -1,0 +1,2743 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/jvandrie/CPRE381/Project2/src
+T_opt
+!s110 1639182740
+VQ]_D:0ISPfj14_Ng^31:72
+Z2 04 17 8 work tb_forwardingunit behavior 1
+=1-00133b5b2baa-61b3f194-9f0da-c8f
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1639182797
+V9IQ99`V07WAdAalW5TjML3
+R2
+=1-00133b5b2baa-61b3f1cd-2ea1e-d10
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+Eadder
+Z6 w1638900539
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R1
+Z9 8/home/jvandrie/CPRE381/Project2/src/adder.vhd
+Z10 F/home/jvandrie/CPRE381/Project2/src/adder.vhd
+l0
+Z11 L23 1
+V]zIH9WE90jCo4PWXf8A:B3
+!s100 dOn@5ZA;oYY7FNcmd7ohi0
+Z12 OL;C;2021.2;73
+33
+Z13 !s110 1639155245
+!i10b 1
+Z14 !s108 1639155245.000000
+Z15 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/adder.vhd|
+Z16 !s107 /home/jvandrie/CPRE381/Project2/src/adder.vhd|
+!i113 0
+Z17 o-work work
+Z18 tExplicit 1 NoCoverage 1 CvgOpt 0
+Astructure
+R7
+R8
+DEx4 work 5 adder 0 22 ]zIH9WE90jCo4PWXf8A:B3
+!i122 0
+l63
+L33 58
+V:Be3FW[]GF]onja`=iWgK2
+!s100 CD>=M<HRGCAF3XYT6`hZ40
+R12
+33
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Eadder_n
+Z19 w1638900540
+R7
+R8
+!i122 1
+R1
+Z20 8/home/jvandrie/CPRE381/Project2/src/adder_n.vhd
+Z21 F/home/jvandrie/CPRE381/Project2/src/adder_n.vhd
+l0
+Z22 L21 1
+V3_=3L`m5V4^:cl?kX@Ch81
+!s100 :1NFHLh2Cemm83Z7Z_cDj2
+R12
+33
+Z23 !s110 1639155246
+!i10b 1
+R14
+Z24 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/adder_n.vhd|
+Z25 !s107 /home/jvandrie/CPRE381/Project2/src/adder_n.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 7 adder_n 0 22 3_=3L`m5V4^:cl?kX@Ch81
+!i122 1
+l44
+L31 48
+VS7F<@TFQJX;2G8;lzFmSY1
+!s100 BQFldlNTL0CmWzf<fCFEl2
+R12
+33
+R23
+!i10b 1
+R14
+R24
+R25
+!i113 0
+R17
+R18
+Eaddsub
+R6
+R7
+R8
+!i122 2
+R1
+Z26 8/home/jvandrie/CPRE381/Project2/src/AddSub.vhd
+Z27 F/home/jvandrie/CPRE381/Project2/src/AddSub.vhd
+l0
+R22
+VU:IJWAPT<gd3da`Lk9bjb1
+!s100 <77nmZC@bWN18zJFV:1Nk3
+R12
+33
+R23
+!i10b 1
+Z28 !s108 1639155246.000000
+Z29 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/AddSub.vhd|
+Z30 !s107 /home/jvandrie/CPRE381/Project2/src/AddSub.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 6 addsub 0 22 U:IJWAPT<gd3da`Lk9bjb1
+!i122 2
+l71
+L33 61
+V1FfEX[FDL6KKJJ_`3<0@e0
+!s100 ElFMmCn^E]JUZQ6>7=?S<1
+R12
+33
+R23
+!i10b 1
+R28
+R29
+R30
+!i113 0
+R17
+R18
+Ealu
+Z31 w1638977877
+R7
+R8
+!i122 3
+R1
+Z32 8/home/jvandrie/CPRE381/Project2/src/ALU.vhd
+Z33 F/home/jvandrie/CPRE381/Project2/src/ALU.vhd
+l0
+L4 1
+V<b^^[]1RiVzoc@H>Ge48b3
+!s100 >>FM`Z[PnYSXOOY1R=gDU3
+R12
+33
+R23
+!i10b 1
+R28
+Z34 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/ALU.vhd|
+Z35 !s107 /home/jvandrie/CPRE381/Project2/src/ALU.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 3 alu 0 22 <b^^[]1RiVzoc@H>Ge48b3
+!i122 3
+l96
+L14 163
+VS?i2>Meb@M`6oF0I8cZ>=1
+!s100 4BbdlZhZ1Y3?g>b7zTb022
+R12
+33
+R23
+!i10b 1
+R28
+R34
+R35
+!i113 0
+R17
+R18
+Ealucontrol
+Z36 w1639151002
+Z37 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R7
+R8
+!i122 4
+R1
+Z38 8/home/jvandrie/CPRE381/Project2/src/ALUcontrol.vhd
+Z39 F/home/jvandrie/CPRE381/Project2/src/ALUcontrol.vhd
+l0
+L5 1
+VbG<cA@4k@AXX73LnEIbG[2
+!s100 0LcgIB0`VBMOINf5`l:9@3
+R12
+33
+R23
+!i10b 1
+R28
+Z40 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/ALUcontrol.vhd|
+Z41 !s107 /home/jvandrie/CPRE381/Project2/src/ALUcontrol.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R37
+R7
+R8
+DEx4 work 10 alucontrol 0 22 bG<cA@4k@AXX73LnEIbG[2
+!i122 4
+l17
+L16 56
+V;J>;JM>FP^91zPeH>M]^_3
+!s100 IYLP7`Ho8Y@Kjj2=oUIQ?0
+R12
+33
+R23
+!i10b 1
+R28
+R40
+R41
+!i113 0
+R17
+R18
+Eand32
+R19
+R7
+R8
+!i122 5
+R1
+Z42 8/home/jvandrie/CPRE381/Project2/src/and32.vhd
+Z43 F/home/jvandrie/CPRE381/Project2/src/and32.vhd
+l0
+R11
+VNE;B3V5D9CRVk3Y1a601b0
+!s100 D;ocFZFD1>8D6MY3;j1L83
+R12
+33
+R23
+!i10b 1
+R28
+Z44 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/and32.vhd|
+Z45 !s107 /home/jvandrie/CPRE381/Project2/src/and32.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 5 and32 0 22 NE;B3V5D9CRVk3Y1a601b0
+!i122 5
+l32
+Z46 L31 8
+V`o2da@RA?lJeUb<n1E3MM2
+!s100 BfB2eEE4Il2WI?Gg<K@RS3
+R12
+33
+R23
+!i10b 1
+R28
+R44
+R45
+!i113 0
+R17
+R18
+Eandg2
+R19
+R7
+R8
+!i122 56
+R1
+Z47 8/home/jvandrie/CPRE381/Project2/src/andg2.vhd
+Z48 F/home/jvandrie/CPRE381/Project2/src/andg2.vhd
+l0
+R11
+VzJ2OoPJ=<ja2?Y;OcjQk;3
+!s100 YT?bGzEmcFo:DlnoC^B4_0
+R12
+33
+Z49 !s110 1639155264
+!i10b 1
+Z50 !s108 1639155264.000000
+Z51 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/andg2.vhd|
+Z52 !s107 /home/jvandrie/CPRE381/Project2/src/andg2.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 5 andg2 0 22 zJ2OoPJ=<ja2?Y;OcjQk;3
+!i122 56
+l32
+Z53 L31 6
+V3oa1[>iDZj;2zVo:oz1>e2
+!s100 I`@Z@UBObS]<7m8bPgKUS1
+R12
+33
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 0
+R17
+R18
+Pbusarray
+R7
+R8
+!i122 61
+R36
+R1
+Z54 8/home/jvandrie/CPRE381/Project2/src/RegisterFile.vhd
+Z55 F/home/jvandrie/CPRE381/Project2/src/RegisterFile.vhd
+l0
+L3 1
+V2OjLEC@fmcEF7Xf1<R:JY1
+!s100 9<zAXFHzeD1Q@1LO?@41J3
+R12
+33
+Z56 !s110 1639155265
+!i10b 1
+Z57 !s108 1639155265.000000
+Z58 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/RegisterFile.vhd|
+Z59 !s107 /home/jvandrie/CPRE381/Project2/src/RegisterFile.vhd|
+!i113 0
+R17
+R18
+Ecomparator32
+Z60 w1638926335
+R7
+R8
+!i122 6
+R1
+Z61 8/home/jvandrie/CPRE381/Project2/src/comparator32.vhd
+Z62 F/home/jvandrie/CPRE381/Project2/src/comparator32.vhd
+l0
+L4 1
+VlzU^a?oC@>cIPfZb:TGJc2
+!s100 zeGTZ5OjO:8nB8J7V0IzH1
+R12
+33
+R23
+!i10b 1
+R28
+Z63 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/comparator32.vhd|
+Z64 !s107 /home/jvandrie/CPRE381/Project2/src/comparator32.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 comparator32 0 22 lzU^a?oC@>cIPfZb:TGJc2
+!i122 6
+l33
+L13 35
+VbElhBB_6nK^XF`ff^Y>WX3
+!s100 h4YYERON;EdYRKiK<Sj5M0
+R12
+33
+R23
+!i10b 1
+R28
+R63
+R64
+!i113 0
+R17
+R18
+Econtrolhazarddetection
+Z65 w1639165426
+R7
+R8
+!i122 64
+Z66 d/home/ethanp1/ethanp1/Project2/src
+Z67 8/home/ethanp1/ethanp1/Project2/src/ControlHazardDetection.vhd
+Z68 F/home/ethanp1/ethanp1/Project2/src/ControlHazardDetection.vhd
+l0
+L4 1
+VP:<;c:ABP5QaQ5SEVkIj43
+!s100 d3_XS2kG0lcmAnz1<@Mjj1
+R12
+33
+Z69 !s110 1639165437
+!i10b 1
+Z70 !s108 1639165437.000000
+Z71 !s90 -reportprogress|300|-work|work|/home/ethanp1/ethanp1/Project2/src/ControlHazardDetection.vhd|
+Z72 !s107 /home/ethanp1/ethanp1/Project2/src/ControlHazardDetection.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 22 controlhazarddetection 0 22 P:<;c:ABP5QaQ5SEVkIj43
+!i122 64
+l27
+L25 48
+VFdDHGY@9Xk<N^`m_6Uf@10
+!s100 UG=h=JOIaj5`]4c;ZJFiN1
+R12
+33
+R69
+!i10b 1
+R70
+R71
+R72
+!i113 0
+R17
+R18
+Econtrolunit
+R19
+R37
+R7
+R8
+!i122 8
+R1
+Z73 8/home/jvandrie/CPRE381/Project2/src/controlUnit.vhd
+Z74 F/home/jvandrie/CPRE381/Project2/src/controlUnit.vhd
+l0
+L5 1
+V:Gz;k:BJCaVP3f_NB9kcE0
+!s100 bF@C?BM435Ge4ih9YA9b]2
+R12
+33
+R23
+!i10b 1
+R28
+Z75 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/controlUnit.vhd|
+Z76 !s107 /home/jvandrie/CPRE381/Project2/src/controlUnit.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R37
+R7
+R8
+DEx4 work 11 controlunit 0 22 :Gz;k:BJCaVP3f_NB9kcE0
+!i122 8
+l26
+L25 256
+VDzalOSALZ@5c:JR@b3fic1
+!s100 okTXeEg;SlEPmP=heRZTE0
+R12
+33
+R23
+!i10b 1
+R28
+R75
+R76
+!i113 0
+R17
+R18
+Edecoder32bit
+R19
+R7
+R8
+!i122 10
+R1
+Z77 8/home/jvandrie/CPRE381/Project2/src/decoder32bit.vhd
+Z78 F/home/jvandrie/CPRE381/Project2/src/decoder32bit.vhd
+l0
+L5 1
+VUdNEi3g5N0>G@nJd9RWfQ1
+!s100 XbJaZYJOGiM>YKT7RC61L0
+R12
+33
+R23
+!i10b 1
+R28
+Z79 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/decoder32bit.vhd|
+Z80 !s107 /home/jvandrie/CPRE381/Project2/src/decoder32bit.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 12 decoder32bit 0 22 UdNEi3g5N0>G@nJd9RWfQ1
+!i122 10
+l14
+L13 39
+V:>d:RLB6agz=9CUR3F?_`0
+!s100 1YO^ToJfhLW^Wz:1chRde1
+R12
+33
+R23
+!i10b 1
+R28
+R79
+R80
+!i113 0
+R17
+R18
+Edecoder5to32
+R19
+R7
+R8
+!i122 9
+R1
+Z81 8/home/jvandrie/CPRE381/Project2/src/decoder5to32.vhd
+Z82 F/home/jvandrie/CPRE381/Project2/src/decoder5to32.vhd
+l0
+Z83 L17 1
+VRg97:o_VDfm=_>G;RmmTe3
+!s100 0AJ@JOFDWLc309;Ccz0GA0
+R12
+33
+R23
+!i10b 1
+R28
+Z84 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/decoder5to32.vhd|
+Z85 !s107 /home/jvandrie/CPRE381/Project2/src/decoder5to32.vhd|
+!i113 0
+R17
+R18
+Adecoder5to32_a
+R7
+R8
+DEx4 work 12 decoder5to32 0 22 Rg97:o_VDfm=_>G;RmmTe3
+!i122 9
+l26
+L25 47
+V@oMVXXSN6WIOz53;89V4P2
+!s100 [<?[boIK_gT9^4HD;]8jX1
+R12
+33
+R23
+!i10b 1
+R28
+R84
+R85
+!i113 0
+R17
+R18
+Edffg
+R19
+R7
+R8
+!i122 11
+R1
+Z86 8/home/jvandrie/CPRE381/Project2/src/dffg.vhd
+Z87 F/home/jvandrie/CPRE381/Project2/src/dffg.vhd
+l0
+R11
+VH7[7fQclb0RF5ljXe<KKY0
+!s100 T4gcXQGMCgKJbn8XhBM;b0
+R12
+33
+R23
+!i10b 1
+R28
+Z88 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/dffg.vhd|
+Z89 !s107 /home/jvandrie/CPRE381/Project2/src/dffg.vhd|
+!i113 0
+R17
+R18
+Amixed
+R7
+R8
+DEx4 work 4 dffg 0 22 H7[7fQclb0RF5ljXe<KKY0
+!i122 11
+l37
+Z90 L33 29
+VM>A>L<U`E78`0<h>bR]Yh3
+!s100 iOdlTUid@@]UimFK_53^C1
+R12
+33
+R23
+!i10b 1
+R28
+R88
+R89
+!i113 0
+R17
+R18
+Edffg_64bit
+Z91 w1638987392
+R7
+R8
+!i122 57
+R1
+Z92 8/home/jvandrie/CPRE381/Project2/src/dffg_64bit.vhd
+Z93 F/home/jvandrie/CPRE381/Project2/src/dffg_64bit.vhd
+l0
+L4 1
+VgS56H]Lb6^`P3;No8K7PV3
+!s100 D;X?[WnKbcI]O?8[IYBUX0
+R12
+33
+R49
+!i10b 1
+R50
+Z94 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/dffg_64bit.vhd|
+Z95 !s107 /home/jvandrie/CPRE381/Project2/src/dffg_64bit.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 10 dffg_64bit 0 22 gS56H]Lb6^`P3;No8K7PV3
+!i122 57
+l26
+L14 34
+VK48kD7[gCIhhg0IYbSI=N1
+!s100 24IMSoAimMRNMVkJ=o=<;0
+R12
+33
+R49
+!i10b 1
+R50
+R94
+R95
+!i113 0
+R17
+R18
+Edffg_nbit
+R19
+R7
+R8
+!i122 12
+R1
+Z96 8/home/jvandrie/CPRE381/Project2/src/dffg_Nbit.vhd
+Z97 F/home/jvandrie/CPRE381/Project2/src/dffg_Nbit.vhd
+l0
+Z98 L20 1
+VnGdkBN5;V6@0gdg68:o6L2
+!s100 8lYcXg:P4FPHVOGabV66b1
+R12
+33
+Z99 !s110 1639155247
+!i10b 1
+R28
+Z100 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/dffg_Nbit.vhd|
+Z101 !s107 /home/jvandrie/CPRE381/Project2/src/dffg_Nbit.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 9 dffg_nbit 0 22 nGdkBN5;V6@0gdg68:o6L2
+!i122 12
+l42
+L30 34
+V8jMNfR6Z7<Aed=Kekozk<2
+!s100 ;QVFz]:]Y4?90o`SI2;6>2
+R12
+33
+R99
+!i10b 1
+R28
+R100
+R101
+!i113 0
+R17
+R18
+Eextender
+R19
+R7
+R8
+!i122 13
+R1
+Z102 8/home/jvandrie/CPRE381/Project2/src/extender.vhd
+Z103 F/home/jvandrie/CPRE381/Project2/src/extender.vhd
+l0
+Z104 L16 1
+V[5>]o:Kj:CXZEV]`9>DPW0
+!s100 ]LZ9d86_5d130LC^a?DQ]1
+R12
+33
+R99
+!i10b 1
+Z105 !s108 1639155247.000000
+Z106 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/extender.vhd|
+Z107 !s107 /home/jvandrie/CPRE381/Project2/src/extender.vhd|
+!i113 0
+R17
+R18
+Amy_extender
+R7
+R8
+DEx4 work 8 extender 0 22 [5>]o:Kj:CXZEV]`9>DPW0
+!i122 13
+l29
+L26 23
+V?7``@P;UNnYlgg@kQ?BFH2
+!s100 Weo8MDG@N?[^P_925NKPR2
+R12
+33
+R99
+!i10b 1
+R105
+R106
+R107
+!i113 0
+R17
+R18
+Efetch
+R19
+R7
+R8
+!i122 14
+R1
+Z108 8/home/jvandrie/CPRE381/Project2/src/fetch.vhd
+Z109 F/home/jvandrie/CPRE381/Project2/src/fetch.vhd
+l0
+R104
+VU2`CoDbGVgAT9hNHnO=k63
+!s100 c[`M<@m^b_ShZLfh@14me1
+R12
+33
+R99
+!i10b 1
+R105
+Z110 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/fetch.vhd|
+Z111 !s107 /home/jvandrie/CPRE381/Project2/src/fetch.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 5 fetch 0 22 U2`CoDbGVgAT9hNHnO=k63
+!i122 14
+l87
+L28 94
+V[C5<knVPRD7E45AnP9]VV0
+!s100 d>1Rl]zFW`_U_Sz0zElJ>1
+R12
+33
+R99
+!i10b 1
+R105
+R110
+R111
+!i113 0
+R17
+R18
+Eforwardingunit
+Z112 w1639182542
+R7
+R8
+!i122 65
+R66
+Z113 8/home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd
+Z114 F/home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd
+l0
+L4 1
+VU9zcCz:2LBZEO:c0B][g=0
+!s100 <@L<m2?8iL?2:IlOP0W4O0
+R12
+33
+Z115 !s110 1639182728
+!i10b 1
+Z116 !s108 1639182727.000000
+Z117 !s90 -reportprogress|300|-work|work|/home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd|
+Z118 !s107 /home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 14 forwardingunit 0 22 U9zcCz:2LBZEO:c0B][g=0
+!i122 65
+l22
+L21 35
+Vi[kB[M:`0Od^]IMVi7U9f2
+!s100 o7]EAoeILJk5<L2MKm1gn3
+R12
+33
+R115
+!i10b 1
+R116
+R117
+R118
+!i113 0
+R17
+R18
+Efulladder
+R19
+R7
+R8
+!i122 15
+R1
+Z119 8/home/jvandrie/CPRE381/Project2/src/fulladder.vhd
+Z120 F/home/jvandrie/CPRE381/Project2/src/fulladder.vhd
+l0
+R104
+V<d7HmjXP][_NHz9=2mWCW1
+!s100 ST]PH?ennhW;[DAme;9`?1
+R12
+33
+R99
+!i10b 1
+R105
+Z121 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/fulladder.vhd|
+Z122 !s107 /home/jvandrie/CPRE381/Project2/src/fulladder.vhd|
+!i113 0
+R17
+R18
+Astructure
+R7
+R8
+DEx4 work 9 fulladder 0 22 <d7HmjXP][_NHz9=2mWCW1
+!i122 15
+l55
+L27 73
+V0Q^>z=HoVKIRS`lM5faQH3
+!s100 SGf98b3jdH>RbF6VOC<hN3
+R12
+33
+R99
+!i10b 1
+R105
+R121
+R122
+!i113 0
+R17
+R18
+Eif_id
+R6
+R7
+R8
+!i122 16
+R1
+Z123 8/home/jvandrie/CPRE381/Project2/src/IF_ID.vhd
+Z124 F/home/jvandrie/CPRE381/Project2/src/IF_ID.vhd
+l0
+L14 1
+VN]oIj2OVefWiVW0]WK>Az0
+!s100 CXil7^Ma4B``?<5h`EW=90
+R12
+33
+R99
+!i10b 1
+R105
+Z125 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/IF_ID.vhd|
+Z126 !s107 /home/jvandrie/CPRE381/Project2/src/IF_ID.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 5 if_id 0 22 N]oIj2OVefWiVW0]WK>Az0
+!i122 16
+l97
+L31 167
+Vz5Zg@]<>UQ[kadW48]m2n2
+!s100 hf2G8:kcEjAfHB>]LKeUT1
+R12
+33
+R99
+!i10b 1
+R105
+R125
+R126
+!i113 0
+R17
+R18
+Eimem
+R19
+R37
+R7
+R8
+!i122 17
+R1
+Z127 8/home/jvandrie/CPRE381/Project2/src/imem.vhd
+Z128 F/home/jvandrie/CPRE381/Project2/src/imem.vhd
+l0
+L8 1
+VeNba?Ha>>]]88AP_6GoO93
+!s100 6E<_AVe82l_NTzK<5@Gk?3
+R12
+33
+R99
+!i10b 1
+R105
+Z129 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/imem.vhd|
+Z130 !s107 /home/jvandrie/CPRE381/Project2/src/imem.vhd|
+!i113 0
+R17
+R18
+Aimem_p
+R37
+R7
+R8
+DEx4 work 4 imem 0 22 eNba?Ha>>]]88AP_6GoO93
+!i122 17
+l35
+L25 15
+VXBoSXP69FH`9MRULzfEDb1
+!s100 GTQJh800_9GN@WoRiCf>`2
+R12
+33
+R99
+!i10b 1
+R105
+R129
+R130
+!i113 0
+R17
+R18
+Einvg
+R19
+R7
+R8
+!i122 58
+R1
+Z131 8/home/jvandrie/CPRE381/Project2/src/invg.vhd
+Z132 F/home/jvandrie/CPRE381/Project2/src/invg.vhd
+l0
+R11
+VzJhOLc0g_4RfSF]IXa;:73
+!s100 _XK?_^5z0Rm1<k12?;5R?2
+R12
+33
+R49
+!i10b 1
+R50
+Z133 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/invg.vhd|
+Z134 !s107 /home/jvandrie/CPRE381/Project2/src/invg.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 4 invg 0 22 zJhOLc0g_4RfSF]IXa;:73
+!i122 58
+l31
+Z135 L30 6
+VT@AA60h>IXVJ?D^`RRiZk1
+!s100 bk7I76o8e1LURdoZEQb8H0
+R12
+33
+R49
+!i10b 1
+R50
+R133
+R134
+!i113 0
+R17
+R18
+Emem
+R19
+R37
+R7
+R8
+!i122 18
+R1
+Z136 8/home/jvandrie/CPRE381/Project2/src/mem.vhd
+Z137 F/home/jvandrie/CPRE381/Project2/src/mem.vhd
+l0
+L8 1
+VQ_Y953^@mg4h;HoXAPe2d2
+!s100 fRlcaiTJZJ1H;nZh;8=LI3
+R12
+33
+R99
+!i10b 1
+R105
+Z138 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/mem.vhd|
+Z139 !s107 /home/jvandrie/CPRE381/Project2/src/mem.vhd|
+!i113 0
+R17
+R18
+Artl
+R37
+R7
+R8
+DEx4 work 3 mem 0 22 Q_Y953^@mg4h;HoXAPe2d2
+!i122 18
+l37
+Z140 L27 24
+VcdMDH_i8fEBbejOT7K`iC2
+!s100 OI8_3><BhDkT3l3n8`OXd3
+R12
+33
+R99
+!i10b 1
+R105
+R138
+R139
+!i113 0
+R17
+R18
+Emips_processor
+R36
+R7
+R8
+!i122 19
+R1
+Z141 8/home/jvandrie/CPRE381/Project2/src/MIPS_Processor.vhd
+Z142 F/home/jvandrie/CPRE381/Project2/src/MIPS_Processor.vhd
+l0
+R98
+V=ngZB>Pk]PU^0Qfoz8fD_3
+!s100 ^i1^b5_W1>L_al]g]Ha6H1
+R12
+33
+R99
+!i10b 1
+R105
+Z143 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/MIPS_Processor.vhd|
+Z144 !s107 /home/jvandrie/CPRE381/Project2/src/MIPS_Processor.vhd|
+!i113 0
+R17
+R18
+Astructure
+R7
+R8
+DEx4 work 14 mips_processor 0 22 =ngZB>Pk]PU^0Qfoz8fD_3
+!i122 19
+l377
+L32 680
+VA5R8kh6eG`oY9HMe]1hz?0
+!s100 KjjZaJ_iC2fb53A4gHYdM1
+R12
+33
+R99
+!i10b 1
+R105
+R143
+R144
+!i113 0
+R17
+R18
+Emux2t1
+R19
+R7
+R8
+!i122 20
+R1
+Z145 8/home/jvandrie/CPRE381/Project2/src/mux2t1.vhd
+Z146 F/home/jvandrie/CPRE381/Project2/src/mux2t1.vhd
+l0
+L4 1
+VR6RZncQ=Z1185FG<z_V`J1
+!s100 ^9Dm5;L[I3R<T;>NIgEQB0
+R12
+33
+R99
+!i10b 1
+R105
+Z147 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/mux2t1.vhd|
+Z148 !s107 /home/jvandrie/CPRE381/Project2/src/mux2t1.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 6 mux2t1 0 22 R6RZncQ=Z1185FG<z_V`J1
+!i122 20
+l29
+L10 38
+V]zSN[PeLA:j45m;Z7Tab]1
+!s100 2M0VfnkDLz?3?hC=ZRJfz1
+R12
+33
+R99
+!i10b 1
+R105
+R147
+R148
+!i113 0
+R17
+R18
+Emux2t1_5
+R19
+R7
+R8
+!i122 21
+R1
+Z149 8/home/jvandrie/CPRE381/Project2/src/mux2t1_5.vhd
+Z150 F/home/jvandrie/CPRE381/Project2/src/mux2t1_5.vhd
+l0
+R22
+V9OA3OC:`m9Jo1<z:OX8?=2
+!s100 ]J>Z<:HieddQX_L:?UAmK1
+R12
+33
+R99
+!i10b 1
+R105
+Z151 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/mux2t1_5.vhd|
+Z152 !s107 /home/jvandrie/CPRE381/Project2/src/mux2t1_5.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 8 mux2t1_5 0 22 9OA3OC:`m9Jo1<z:OX8?=2
+!i122 21
+l39
+Z153 L30 21
+VOoH_@8zkIYXMPSc]_N`@Y1
+!s100 V[XZHf;_G[@jO;5jL4Co[3
+R12
+33
+R99
+!i10b 1
+R105
+R151
+R152
+!i113 0
+R17
+R18
+Emux2t1_n
+R19
+R7
+R8
+!i122 22
+R1
+Z154 8/home/jvandrie/CPRE381/Project2/src/mux2t1_N.vhd
+Z155 F/home/jvandrie/CPRE381/Project2/src/mux2t1_N.vhd
+l0
+R22
+VDk6W_YlM7aaW[_dI]K4K>1
+!s100 BKZeKCAB2i6lge3>7TA3d3
+R12
+33
+R99
+!i10b 1
+R105
+Z156 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/mux2t1_N.vhd|
+Z157 !s107 /home/jvandrie/CPRE381/Project2/src/mux2t1_N.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 8 mux2t1_n 0 22 Dk6W_YlM7aaW[_dI]K4K>1
+!i122 22
+l39
+R153
+VS;7^3=hDiT7zH78Vm1Xhk1
+!s100 W>5MMWO2LBg`K8[P>h>Ye1
+R12
+33
+R99
+!i10b 1
+R105
+R156
+R157
+!i113 0
+R17
+R18
+Emux32_16t1
+R19
+R7
+R8
+!i122 23
+R1
+Z158 8/home/jvandrie/CPRE381/Project2/src/mux32_16t1.vhd
+Z159 F/home/jvandrie/CPRE381/Project2/src/mux32_16t1.vhd
+l0
+L4 1
+VVnA:;XB0Bl7eCRhZ8BJiB3
+!s100 IoeEiV8L?OgeioNMgzNGF3
+R12
+33
+R99
+!i10b 1
+R105
+Z160 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/mux32_16t1.vhd|
+Z161 !s107 /home/jvandrie/CPRE381/Project2/src/mux32_16t1.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 10 mux32_16t1 0 22 VnA:;XB0Bl7eCRhZ8BJiB3
+!i122 23
+l13
+L11 25
+V>Q=TJRWhPJB?Ej@Z4>k@C3
+!s100 ]5W0B>P?O;;C4NOEBTPho3
+R12
+33
+R99
+!i10b 1
+R105
+R160
+R161
+!i113 0
+R17
+R18
+Enor32
+R19
+R7
+R8
+!i122 24
+R1
+Z162 8/home/jvandrie/CPRE381/Project2/src/nor32.vhd
+Z163 F/home/jvandrie/CPRE381/Project2/src/nor32.vhd
+l0
+L22 1
+V4oBg9@V_V0i:^zgnQ0d4:2
+!s100 9;Dnn2>MogohmzU_PSjIQ3
+R12
+33
+R99
+!i10b 1
+R105
+Z164 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/nor32.vhd|
+Z165 !s107 /home/jvandrie/CPRE381/Project2/src/nor32.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 5 nor32 0 22 4oBg9@V_V0i:^zgnQ0d4:2
+!i122 24
+l31
+L30 8
+V@cchH?ReOc2]1=6QG4GI>1
+!s100 [:JNBTGa?Cf_::4I@g7a:3
+R12
+33
+R99
+!i10b 1
+R105
+R164
+R165
+!i113 0
+R17
+R18
+Enor32t1
+R19
+R7
+R8
+!i122 25
+R1
+Z166 8/home/jvandrie/CPRE381/Project2/src/nor32t1.vhd
+Z167 F/home/jvandrie/CPRE381/Project2/src/nor32t1.vhd
+l0
+L4 1
+V@e?2iCo_OOWNAQXWnlPc]0
+!s100 Uz?US7SZYITZRg@D>Ob410
+R12
+33
+Z168 !s110 1639155248
+!i10b 1
+R105
+Z169 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/nor32t1.vhd|
+Z170 !s107 /home/jvandrie/CPRE381/Project2/src/nor32t1.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 7 nor32t1 0 22 @e?2iCo_OOWNAQXWnlPc]0
+!i122 25
+l10
+L9 37
+VLVNe@EnRg58YRg;dEaHME3
+!s100 =PkiiK1>M8`N1jYR;zH^?1
+R12
+33
+R168
+!i10b 1
+R105
+R169
+R170
+!i113 0
+R17
+R18
+Eonescomp
+R6
+R7
+R8
+!i122 26
+R1
+Z171 8/home/jvandrie/CPRE381/Project2/src/OnesComp.vhd
+Z172 F/home/jvandrie/CPRE381/Project2/src/OnesComp.vhd
+l0
+R22
+VmHdnndF11JBgo@TG]KmU63
+!s100 k;3PV1EOoOKGJzI]1ff:H2
+R12
+33
+R168
+!i10b 1
+Z173 !s108 1639155248.000000
+Z174 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/OnesComp.vhd|
+Z175 !s107 /home/jvandrie/CPRE381/Project2/src/OnesComp.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 8 onescomp 0 22 mHdnndF11JBgo@TG]KmU63
+!i122 26
+l35
+L28 17
+VB8O]XHE3[mS13N;;:N2C:3
+!s100 f;X8eKBQIjg6Xh>gc@M]_0
+R12
+33
+R168
+!i10b 1
+R173
+R174
+R175
+!i113 0
+R17
+R18
+Eor32
+R19
+R7
+R8
+!i122 27
+R1
+Z176 8/home/jvandrie/CPRE381/Project2/src/or32.vhd
+Z177 F/home/jvandrie/CPRE381/Project2/src/or32.vhd
+l0
+R11
+VgPz;4ndiaC8`TRGh`n2N:1
+!s100 7zOZHW:L0iSkDiVn`a_9?0
+R12
+33
+R168
+!i10b 1
+R173
+Z178 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/or32.vhd|
+Z179 !s107 /home/jvandrie/CPRE381/Project2/src/or32.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 4 or32 0 22 gPz;4ndiaC8`TRGh`n2N:1
+!i122 27
+l32
+R46
+V6fezz<hzi?XfXA31j8Fm_2
+!s100 Yf@NB]WH5C@_lP7X1=CKN0
+R12
+33
+R168
+!i10b 1
+R173
+R178
+R179
+!i113 0
+R17
+R18
+Eor32to1
+R60
+R7
+R8
+!i122 28
+R1
+Z180 8/home/jvandrie/CPRE381/Project2/src/OR32to1.vhd
+Z181 F/home/jvandrie/CPRE381/Project2/src/OR32to1.vhd
+l0
+L4 1
+V@D5U[c14lJd`gf^7jE0z12
+!s100 BLVY?i=XaLLg2jMT5lc?B3
+R12
+33
+R168
+!i10b 1
+R173
+Z182 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/OR32to1.vhd|
+Z183 !s107 /home/jvandrie/CPRE381/Project2/src/OR32to1.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 7 or32to1 0 22 @D5U[c14lJd`gf^7jE0z12
+!i122 28
+l11
+L10 36
+V6NJA8<6;<TA85IA288RHW0
+!s100 U^HazfGO<?DTh1KK=P>;a2
+R12
+33
+R168
+!i10b 1
+R173
+R182
+R183
+!i113 0
+R17
+R18
+Eorg2
+R19
+R7
+R8
+!i122 29
+R1
+Z184 8/home/jvandrie/CPRE381/Project2/src/org2.vhd
+Z185 F/home/jvandrie/CPRE381/Project2/src/org2.vhd
+l0
+R11
+V0FzB9ATDX9TV=M:n@=VB83
+!s100 bGQ1F9eW^Q17OoL9h4g7z2
+R12
+33
+R168
+!i10b 1
+R173
+Z186 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/org2.vhd|
+Z187 !s107 /home/jvandrie/CPRE381/Project2/src/org2.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 4 org2 0 22 0FzB9ATDX9TV=M:n@=VB83
+!i122 29
+l32
+R53
+V0JC>N7cRXc=9bni@>dg7o3
+!s100 h5_AzR3TdRA0a_K=dQ>mI2
+R12
+33
+R168
+!i10b 1
+R173
+R186
+R187
+!i113 0
+R17
+R18
+Epcreg
+R6
+R7
+R8
+!i122 59
+R1
+Z188 8/home/jvandrie/CPRE381/Project2/src/PCReg.vhd
+Z189 F/home/jvandrie/CPRE381/Project2/src/PCReg.vhd
+l0
+R11
+Vb91JXDzFQ81i9PXDONd<V3
+!s100 INj<VVFG1N8cIF[1LbF7b3
+R12
+33
+R49
+!i10b 1
+R50
+Z190 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/PCReg.vhd|
+Z191 !s107 /home/jvandrie/CPRE381/Project2/src/PCReg.vhd|
+!i113 0
+R17
+R18
+Amixed
+R7
+R8
+DEx4 work 5 pcreg 0 22 b91JXDzFQ81i9PXDONd<V3
+!i122 59
+l37
+R90
+V8QJj6dL7@<7n>:cZBR[Bg2
+!s100 =:BoeWn7DLOz]BNHO0T4Q2
+R12
+33
+R49
+!i10b 1
+R50
+R190
+R191
+!i113 0
+R17
+R18
+Ereg_exmem
+Z192 w1638932188
+R7
+R8
+!i122 30
+R1
+Z193 8/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM.vhd
+Z194 F/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM.vhd
+l0
+L5 1
+V_PUARWVOIO_ciNPL8C8ec2
+!s100 EUI]6`a6E4kDT<9zeoODO3
+R12
+33
+R168
+!i10b 1
+R173
+Z195 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM.vhd|
+Z196 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_EXMEM.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 9 reg_exmem 0 22 _PUARWVOIO_ciNPL8C8ec2
+!i122 30
+l50
+L38 44
+Vnb8_IPOHdhO5N@8Wi[GHO0
+!s100 GbMVf1YFU3zH7m6WF?d_d3
+R12
+33
+R168
+!i10b 1
+R173
+R195
+R196
+!i113 0
+R17
+R18
+Ereg_exmem_hw
+Z197 w1639100869
+R7
+R8
+!i122 31
+R1
+Z198 8/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM_hw.vhd
+Z199 F/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM_hw.vhd
+l0
+L5 1
+V00:JUFnO=3b5C_kk5THiD3
+!s100 XLRCmYcTd?YY`G8B7RP2O2
+R12
+33
+R168
+!i10b 1
+R173
+Z200 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_EXMEM_hw.vhd|
+Z201 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_EXMEM_hw.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 reg_exmem_hw 0 22 00:JUFnO=3b5C_kk5THiD3
+!i122 31
+l52
+L38 50
+VDQ0Ka=j6N>]@3z>L6[zb>1
+!s100 7<3_l?gJL`WQOQE0@o^3^1
+R12
+33
+R168
+!i10b 1
+R173
+R200
+R201
+!i113 0
+R17
+R18
+Ereg_idex
+Z202 w1638931693
+R7
+R8
+!i122 32
+R1
+Z203 8/home/jvandrie/CPRE381/Project2/src/Reg_IDEX.vhd
+Z204 F/home/jvandrie/CPRE381/Project2/src/Reg_IDEX.vhd
+l0
+L5 1
+VQDX9UoXB4Y<56z0gNCNHE1
+!s100 f0g2`lg2^T13_;CkA;NlM1
+R12
+33
+R168
+!i10b 1
+R173
+Z205 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_IDEX.vhd|
+Z206 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_IDEX.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 8 reg_idex 0 22 QDX9UoXB4Y<56z0gNCNHE1
+!i122 32
+l76
+L64 66
+VR8XJeUg[jYTU`KZ9ZC@_I1
+!s100 n8ZIKM34]a18OQ01UEWzF1
+R12
+33
+R168
+!i10b 1
+R173
+R205
+R206
+!i113 0
+R17
+R18
+Ereg_idex_hw
+Z207 w1639099663
+R7
+R8
+!i122 33
+R1
+Z208 8/home/jvandrie/CPRE381/Project2/src/Reg_IDEX_hw.vhd
+Z209 F/home/jvandrie/CPRE381/Project2/src/Reg_IDEX_hw.vhd
+l0
+L5 1
+VTE]e]VST?g567m7WYab802
+!s100 Zmo_HW2f]R`@=3=P4Szl50
+R12
+33
+R168
+!i10b 1
+R173
+Z210 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_IDEX_hw.vhd|
+Z211 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_IDEX_hw.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 11 reg_idex_hw 0 22 TE]e]VST?g567m7WYab802
+!i122 33
+l79
+L65 71
+V;_L?4NTdQPEcM`HhoTi5h0
+!s100 hHoAP_KE5>H5<cAIXLX`j3
+R12
+33
+R168
+!i10b 1
+R173
+R210
+R211
+!i113 0
+R17
+R18
+Ereg_ifid
+R91
+R7
+R8
+!i122 34
+R1
+Z212 8/home/jvandrie/CPRE381/Project2/src/Reg_IFID.vhd
+Z213 F/home/jvandrie/CPRE381/Project2/src/Reg_IFID.vhd
+l0
+L4 1
+Vzb13]nXId?KXGBaL6RCYe2
+!s100 5O2OhQdZAGiJ]@1LDF>VE3
+R12
+33
+R168
+!i10b 1
+R173
+Z214 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_IFID.vhd|
+Z215 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_IFID.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 8 reg_ifid 0 22 zb13]nXId?KXGBaL6RCYe2
+!i122 34
+l30
+L18 28
+V2>4;9]:80WEg5UmVao_2`2
+!s100 MXMCC2_=lMnkNl5^7BG6;0
+R12
+33
+R168
+!i10b 1
+R173
+R214
+R215
+!i113 0
+R17
+R18
+Ereg_ifid_hw
+Z216 w1639099553
+R7
+R8
+!i122 35
+R1
+Z217 8/home/jvandrie/CPRE381/Project2/src/Reg_IFID_hw.vhd
+Z218 F/home/jvandrie/CPRE381/Project2/src/Reg_IFID_hw.vhd
+l0
+L4 1
+V_K3IdE<LJkijdMk[_NlQ;0
+!s100 7gJ3H6c>LcTf9OCWW:d7A0
+R12
+33
+R168
+!i10b 1
+R173
+Z219 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_IFID_hw.vhd|
+Z220 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_IFID_hw.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 11 reg_ifid_hw 0 22 _K3IdE<LJkijdMk[_NlQ;0
+!i122 35
+l32
+L18 31
+VP;P8B0zjbgjK6bCa:bEdL1
+!s100 z<XZmz0E=HdLQ9VZci9zR2
+R12
+33
+R168
+!i10b 1
+R173
+R219
+R220
+!i113 0
+R17
+R18
+Ereg_memwb
+R31
+R7
+R8
+!i122 60
+R1
+Z221 8/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB.vhd
+Z222 F/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB.vhd
+l0
+L5 1
+VE=^6^5Rg8GN@g>a0R5<S?3
+!s100 0]X3?_R`Hchbe?_]PXFbF2
+R12
+33
+R56
+!i10b 1
+R57
+Z223 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB.vhd|
+Z224 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_MEMWB.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 9 reg_memwb 0 22 E=^6^5Rg8GN@g>a0R5<S?3
+!i122 60
+l46
+L34 42
+VzgeeBbOk00zi<F;_Q6?WZ0
+!s100 T]TOh_9FzX6Um;FjQZK4e3
+R12
+33
+R56
+!i10b 1
+R57
+R223
+R224
+!i113 0
+R17
+R18
+Ereg_memwb_hw
+Z225 w1639099479
+R7
+R8
+!i122 36
+R1
+Z226 8/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB_hw.vhd
+Z227 F/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB_hw.vhd
+l0
+L5 1
+V37CDe8C>_3FWI6^g>7Aa;1
+!s100 =Y<^3iRJB=L7C?Ql>d@0C3
+R12
+33
+R168
+!i10b 1
+R173
+Z228 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/Reg_MEMWB_hw.vhd|
+Z229 !s107 /home/jvandrie/CPRE381/Project2/src/Reg_MEMWB_hw.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 reg_memwb_hw 0 22 37CDe8C>_3FWI6^g>7Aa;1
+!i122 36
+l50
+L34 49
+VB[YiNO;jH1S2][HOz:[1i1
+!s100 Uc4n<a:4W`XJ8fLgjE0@`2
+R12
+33
+R168
+!i10b 1
+R173
+R228
+R229
+!i113 0
+R17
+R18
+Eregister_137
+R60
+R7
+R8
+!i122 38
+R1
+Z230 8/home/jvandrie/CPRE381/Project2/src/register_137.vhd
+Z231 F/home/jvandrie/CPRE381/Project2/src/register_137.vhd
+l0
+R22
+V]li3P2N:EdJQolhbBKRjo2
+!s100 lMI1giWFFfWa>fJYLRjzW0
+R12
+33
+R168
+!i10b 1
+R173
+Z232 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/register_137.vhd|
+Z233 !s107 /home/jvandrie/CPRE381/Project2/src/register_137.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 register_137 0 22 ]li3P2N:EdJQolhbBKRjo2
+!i122 38
+l42
+Z234 L30 27
+VXXN7BF;h3Q[:L06:2JCWi3
+!s100 QNN_BHWjL[SRaE_c^ONkE3
+R12
+33
+R168
+!i10b 1
+R173
+R232
+R233
+!i113 0
+R17
+R18
+Eregister_138
+R31
+R7
+R8
+!i122 39
+R1
+Z235 8/home/jvandrie/CPRE381/Project2/src/register_138.vhd
+Z236 F/home/jvandrie/CPRE381/Project2/src/register_138.vhd
+l0
+R22
+VTB2lznaQR3B8FF@z8GO5j3
+!s100 RPgIDE`9f=EEGFYhLH0U<3
+R12
+33
+R168
+!i10b 1
+R173
+Z237 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/register_138.vhd|
+Z238 !s107 /home/jvandrie/CPRE381/Project2/src/register_138.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 register_138 0 22 TB2lznaQR3B8FF@z8GO5j3
+!i122 39
+l42
+R234
+VCjl@k;4o8MRh7>>BQmB?d2
+!s100 oZ7aCik8C>CjfWQT7ISBe1
+R12
+33
+R168
+!i10b 1
+R173
+R237
+R238
+!i113 0
+R17
+R18
+Eregister_186
+R60
+R7
+R8
+!i122 40
+R1
+Z239 8/home/jvandrie/CPRE381/Project2/src/register_186.vhd
+Z240 F/home/jvandrie/CPRE381/Project2/src/register_186.vhd
+l0
+R22
+V3GZEh1PeFb3<c:ZVVjAVV0
+!s100 =L=3Y2Sh9C3>85BoDPBn40
+R12
+33
+Z241 !s110 1639155249
+!i10b 1
+Z242 !s108 1639155249.000000
+Z243 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/register_186.vhd|
+Z244 !s107 /home/jvandrie/CPRE381/Project2/src/register_186.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 12 register_186 0 22 3GZEh1PeFb3<c:ZVVjAVV0
+!i122 40
+l42
+R234
+VhoEB5L3o>fHUc@X6@XUo:2
+!s100 8:TnJV?Cg49SNeVoW0Q@12
+R12
+33
+R241
+!i10b 1
+R242
+R243
+R244
+!i113 0
+R17
+R18
+Eregister_64
+R91
+R7
+R8
+!i122 37
+R1
+Z245 8/home/jvandrie/CPRE381/Project2/src/register_64.vhd
+Z246 F/home/jvandrie/CPRE381/Project2/src/register_64.vhd
+l0
+R22
+V4fGLK=ggFeO;g4jHd^XY;2
+!s100 gOHk:6z?aoZjk?FoMc9Uk0
+R12
+33
+R168
+!i10b 1
+R173
+Z247 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/register_64.vhd|
+Z248 !s107 /home/jvandrie/CPRE381/Project2/src/register_64.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 11 register_64 0 22 4fGLK=ggFeO;g4jHd^XY;2
+!i122 37
+l43
+L30 28
+VR?SUHb;JDj;L?dzi66EQf1
+!s100 e0aS=`MWF]b;XFTj@HbV[3
+R12
+33
+R168
+!i10b 1
+R173
+R247
+R248
+!i113 0
+R17
+R18
+Eregister_n
+R19
+R7
+R8
+!i122 41
+R1
+Z249 8/home/jvandrie/CPRE381/Project2/src/register_N.vhd
+Z250 F/home/jvandrie/CPRE381/Project2/src/register_N.vhd
+l0
+R83
+V7QENW138ITKMCTDVEh39m3
+!s100 Whe?ecdYijhAdJc2DUa?n2
+R12
+33
+R241
+!i10b 1
+R242
+Z251 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/register_N.vhd|
+Z252 !s107 /home/jvandrie/CPRE381/Project2/src/register_N.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 10 register_n 0 22 7QENW138ITKMCTDVEh39m3
+!i122 41
+l38
+R140
+VmZ]Fn=EbRlL2elc3E;TDC3
+!s100 oZH3LC?4[fQN3Q@S1K<bi2
+R12
+33
+R241
+!i10b 1
+R242
+R251
+R252
+!i113 0
+R17
+R18
+Eregisterfile
+R36
+Z253 DPx4 work 8 busarray 0 22 2OjLEC@fmcEF7Xf1<R:JY1
+R7
+R8
+!i122 61
+R1
+R54
+R55
+l0
+L12 1
+VzGaZD2=_Fol?cm^m8=Y:81
+!s100 jbPO04]9TbYeReGi2XD=>2
+R12
+33
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R17
+R18
+Astructural
+R253
+R7
+R8
+DEx4 work 12 registerfile 0 22 zGaZD2=_Fol?cm^m8=Y:81
+!i122 61
+l50
+L26 56
+VVa@20_8]AMMzM><64N]3I3
+!s100 6^=W?;=c=9cDgA22g9?zB2
+R12
+33
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R17
+R18
+Erepl
+R19
+R7
+R8
+!i122 42
+R1
+Z254 8/home/jvandrie/CPRE381/Project2/src/repl.vhd
+Z255 F/home/jvandrie/CPRE381/Project2/src/repl.vhd
+l0
+L4 1
+VPzL;@SJR><F]knoZ0_LSc2
+!s100 A9EdhnA3F`G:<j8FSW:LK1
+R12
+33
+R241
+!i10b 1
+R242
+Z256 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/repl.vhd|
+Z257 !s107 /home/jvandrie/CPRE381/Project2/src/repl.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 4 repl 0 22 PzL;@SJR><F]knoZ0_LSc2
+!i122 42
+l11
+L9 7
+VPHkL`DM=jXWY]iGeITFfi3
+!s100 dM4Bi]ENODCXmAbZlPf]R3
+R12
+33
+R241
+!i10b 1
+R242
+R256
+R257
+!i113 0
+R17
+R18
+Eripplecarryadd_n
+R19
+R7
+R8
+!i122 43
+R1
+Z258 8/home/jvandrie/CPRE381/Project2/src/ripplecarryadd_N.vhd
+Z259 F/home/jvandrie/CPRE381/Project2/src/ripplecarryadd_N.vhd
+l0
+L18 1
+VdE15Q=bAZZJLd0>FaRo:?0
+!s100 z6W4f<?oRfdLRlW:eSHm;0
+R12
+33
+R241
+!i10b 1
+R242
+Z260 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/ripplecarryadd_N.vhd|
+Z261 !s107 /home/jvandrie/CPRE381/Project2/src/ripplecarryadd_N.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 16 ripplecarryadd_n 0 22 dE15Q=bAZZJLd0>FaRo:?0
+!i122 43
+l45
+L29 50
+V[cSi[C5Nc^AhDaaCF<f8a2
+!s100 ^]Ua29GLa8M3kd<GZ:EZN0
+R12
+33
+R241
+!i10b 1
+R242
+R260
+R261
+!i113 0
+R17
+R18
+Eshifter
+R19
+R7
+R8
+!i122 44
+R1
+Z262 8/home/jvandrie/CPRE381/Project2/src/shifter.vhd
+Z263 F/home/jvandrie/CPRE381/Project2/src/shifter.vhd
+l0
+L4 1
+V4N<n8lLCjJ6B5gaEckzdH2
+!s100 XOU8]9JH7HSOOjOmQH[a[1
+R12
+33
+R241
+!i10b 1
+R242
+Z264 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/shifter.vhd|
+Z265 !s107 /home/jvandrie/CPRE381/Project2/src/shifter.vhd|
+!i113 0
+R17
+R18
+Astructural
+R7
+R8
+DEx4 work 7 shifter 0 22 4N<n8lLCjJ6B5gaEckzdH2
+!i122 44
+l31
+L12 135
+VPWBIh4SFG>aCg3hK[E]Sg1
+!s100 bcah2PngBAU[o>E7`hIG13
+R12
+33
+R241
+!i10b 1
+R242
+R264
+R265
+!i113 0
+R17
+R18
+Eshiftleft2
+R19
+R7
+R8
+!i122 45
+R1
+Z266 8/home/jvandrie/CPRE381/Project2/src/shiftleft2.vhd
+Z267 F/home/jvandrie/CPRE381/Project2/src/shiftleft2.vhd
+l0
+R11
+V_a79zcjc9d9F8gfk`MKWY1
+!s100 i=954n[bcHcOblUXWG0D40
+R12
+33
+R241
+!i10b 1
+R242
+Z268 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/shiftleft2.vhd|
+Z269 !s107 /home/jvandrie/CPRE381/Project2/src/shiftleft2.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 10 shiftleft2 0 22 _a79zcjc9d9F8gfk`MKWY1
+!i122 45
+l32
+R135
+VOeMOk0b90T<^50>dk[NFm0
+!s100 65`UGjG;CkGYGEXMI9VaI2
+R12
+33
+R241
+!i10b 1
+R242
+R268
+R269
+!i113 0
+R17
+R18
+Eshiftleft226bit
+Z270 w1638993952
+R7
+R8
+!i122 46
+R1
+Z271 8/home/jvandrie/CPRE381/Project2/src/shiftleft226bit.vhd
+Z272 F/home/jvandrie/CPRE381/Project2/src/shiftleft226bit.vhd
+l0
+R11
+VgjnEKTFmJIl3n=0OX:Pm92
+!s100 ZBPSIDbSC[0DV7Cj6]Pm_0
+R12
+33
+R241
+!i10b 1
+R242
+Z273 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/shiftleft226bit.vhd|
+Z274 !s107 /home/jvandrie/CPRE381/Project2/src/shiftleft226bit.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 15 shiftleft226bit 0 22 gjnEKTFmJIl3n=0OX:Pm92
+!i122 46
+l32
+R135
+V0Xe2lmcBUERzG6z^`_RNk3
+!s100 h3FbD`ZK;CBAfN@a[9?9U0
+R12
+33
+R241
+!i10b 1
+R242
+R273
+R274
+!i113 0
+R17
+R18
+Esignextender
+R6
+R7
+R8
+!i122 47
+R1
+Z275 8/home/jvandrie/CPRE381/Project2/src/SignExtender.vhd
+Z276 F/home/jvandrie/CPRE381/Project2/src/SignExtender.vhd
+l0
+L4 1
+VoYCSU6hf>0B^2BTmalfM51
+!s100 Mo=3O]`1Vn1ik3Oe46>In2
+R12
+33
+R241
+!i10b 1
+R242
+Z277 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/SignExtender.vhd|
+Z278 !s107 /home/jvandrie/CPRE381/Project2/src/SignExtender.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 12 signextender 0 22 oYCSU6hf>0B^2BTmalfM51
+!i122 47
+l11
+L10 6
+V2Z3JJNl11?BZO2kNP9ZXF1
+!s100 ngX>nHX;ImPz4bg;9G^DJ0
+R12
+33
+R241
+!i10b 1
+R242
+R277
+R278
+!i113 0
+R17
+R18
+Etb
+R19
+Z279 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+Z280 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+R7
+R8
+!i122 62
+R1
+Z281 8/home/jvandrie/CPRE381/Project2/src/tb.vhd
+Z282 F/home/jvandrie/CPRE381/Project2/src/tb.vhd
+l0
+L25 1
+V>6S[@iEzc=M_F6P8CODdP3
+!s100 17fnb:E7lndl[EE?eR@^m0
+R12
+33
+R56
+!i10b 1
+R57
+Z283 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/tb.vhd|
+Z284 !s107 /home/jvandrie/CPRE381/Project2/src/tb.vhd|
+!i113 0
+R17
+R18
+Amixed
+R279
+R280
+R7
+R8
+DEx4 work 2 tb 0 22 >6S[@iEzc=M_F6P8CODdP3
+!i122 62
+l54
+L31 122
+VU?<I>Gh7[TiWBf@<G1T@B2
+!s100 g^V]cM>FQoOPO8]NL03im1
+R12
+33
+R56
+!i10b 1
+R57
+R283
+R284
+!i113 0
+R17
+R18
+Etb_alucontrol
+R19
+R37
+R7
+R8
+!i122 48
+R1
+Z285 8/home/jvandrie/CPRE381/Project2/src/tb_ALUcontrol.vhd
+Z286 F/home/jvandrie/CPRE381/Project2/src/tb_ALUcontrol.vhd
+l0
+L5 1
+VLUo2loZKV:H3RV4lbzAfJ3
+!s100 3h4e3MYCRl]VZN30NLfHU0
+R12
+33
+R241
+!i10b 1
+R242
+Z287 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_ALUcontrol.vhd|
+Z288 !s107 /home/jvandrie/CPRE381/Project2/src/tb_ALUcontrol.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R37
+R7
+R8
+DEx4 work 13 tb_alucontrol 0 22 LUo2loZKV:H3RV4lbzAfJ3
+!i122 48
+l27
+L9 75
+VjhoLD7H_T:IS::ZzBOWMn0
+!s100 c:U6B:;64H9zNV3]YgfDA2
+R12
+33
+R241
+!i10b 1
+R242
+R287
+R288
+!i113 0
+R17
+R18
+Etb_comparator32
+Z289 w1638998603
+R280
+R7
+R8
+!i122 49
+R1
+Z290 8/home/jvandrie/CPRE381/Project2/src/tb_comparator32.vhd
+Z291 F/home/jvandrie/CPRE381/Project2/src/tb_comparator32.vhd
+l0
+L9 1
+VTVmG3cSUkoB>jfbznF18n3
+!s100 nFf[_YK]<WDJ8@nlZBmQC0
+R12
+33
+R241
+!i10b 1
+R242
+Z292 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_comparator32.vhd|
+Z293 !s107 /home/jvandrie/CPRE381/Project2/src/tb_comparator32.vhd|
+!i113 0
+R17
+R18
+Amixed
+R280
+R7
+R8
+DEx4 work 15 tb_comparator32 0 22 TVmG3cSUkoB>jfbznF18n3
+!i122 49
+l39
+L15 66
+V_SUPO3FnR<7KXHZ1R1^B_2
+!s100 d3fV_oUWbmBeYTQR_N@OW3
+R12
+33
+R241
+!i10b 1
+R242
+R292
+R293
+!i113 0
+R17
+R18
+Etb_controlunit
+R19
+R37
+R7
+R8
+!i122 50
+R1
+Z294 8/home/jvandrie/CPRE381/Project2/src/tb_controlUnit.vhd
+Z295 F/home/jvandrie/CPRE381/Project2/src/tb_controlUnit.vhd
+l0
+L5 1
+V[EGGf0mid]AD50Z9_;kUg2
+!s100 ^EB;CaFnkR=FcMbf:bZAn2
+R12
+33
+R241
+!i10b 1
+R242
+Z296 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_controlUnit.vhd|
+Z297 !s107 /home/jvandrie/CPRE381/Project2/src/tb_controlUnit.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R37
+R7
+R8
+DEx4 work 14 tb_controlunit 0 22 [EGGf0mid]AD50Z9_;kUg2
+!i122 50
+l35
+L9 91
+VlMH`bC3nRKE:iXzN3:F[H0
+!s100 iObeY5[[]Rd?iW9TA;`NN3
+R12
+33
+R241
+!i10b 1
+R242
+R296
+R297
+!i113 0
+R17
+R18
+Etb_forwardingunit
+Z298 w1639182414
+R37
+R7
+R8
+!i122 66
+R66
+Z299 8/home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd
+Z300 F/home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd
+l0
+L5 1
+VR7nk<hJK6M5j3ZeVjIc=h1
+!s100 EM;cV[0YAni>a:b9Q9A8a0
+R12
+33
+R115
+!i10b 1
+Z301 !s108 1639182728.000000
+Z302 !s90 -reportprogress|300|-work|work|/home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd|
+Z303 !s107 /home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R37
+R7
+R8
+DEx4 work 17 tb_forwardingunit 0 22 R7nk<hJK6M5j3ZeVjIc=h1
+!i122 66
+l35
+L9 76
+VM_TBa[m=z0g4TXi]Y9^O03
+!s100 D^Zcn_38fUZ<X:obkTBAS3
+R12
+33
+R115
+!i10b 1
+R301
+R302
+R303
+!i113 0
+R17
+R18
+Etb_reg_idex
+Z304 w1638990928
+R7
+R8
+!i122 51
+R1
+Z305 8/home/jvandrie/CPRE381/Project2/src/tb_Reg_IDEX.vhd
+Z306 F/home/jvandrie/CPRE381/Project2/src/tb_Reg_IDEX.vhd
+l0
+L3 1
+V51aMeTcY2Km_XDWzFS:DN2
+!s100 NOdHPk:L7CBhNXZH[A:BO2
+R12
+33
+R241
+!i10b 1
+R242
+Z307 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_Reg_IDEX.vhd|
+Z308 !s107 /home/jvandrie/CPRE381/Project2/src/tb_Reg_IDEX.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 11 tb_reg_idex 0 22 51aMeTcY2Km_XDWzFS:DN2
+!i122 51
+l108
+L7 199
+V?2k>E^LEAfAN56GoKiS3a1
+!s100 QT]e5HLL>O?^W24mX2_Q?2
+R12
+33
+R241
+!i10b 1
+R242
+R307
+R308
+!i113 0
+R17
+R18
+Etb_reg_ifid
+Z309 w1638479263
+R7
+R8
+!i122 52
+R1
+Z310 8/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID.vhd
+Z311 F/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID.vhd
+l0
+L3 1
+VAKYG8S2C9aRlgi5?e>9Cc1
+!s100 ?4K35ZzKWlH_Vi_ffOE6m2
+R12
+33
+R241
+!i10b 1
+R242
+Z312 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID.vhd|
+Z313 !s107 /home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 11 tb_reg_ifid 0 22 AKYG8S2C9aRlgi5?e>9Cc1
+!i122 52
+l33
+L7 63
+V`bl7S;`c7lE2m_YVhG@JI0
+!s100 h0a`Zk:F@[I_Y:BVUbk8[2
+R12
+33
+R241
+!i10b 1
+R242
+R312
+R313
+!i113 0
+R17
+R18
+Etb_reg_ifid_hw
+Z314 w1639103589
+R7
+R8
+!i122 53
+R1
+Z315 8/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID_hw.vhd
+Z316 F/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID_hw.vhd
+l0
+L3 1
+V;[61o_<zHYQO;3ez1FZB70
+!s100 h_WDa4@MN8XP1QFbQ`SHF1
+R12
+33
+R241
+!i10b 1
+R242
+Z317 !s90 -reportprogress|30|-work|work|/home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID_hw.vhd|
+Z318 !s107 /home/jvandrie/CPRE381/Project2/src/tb_Reg_IFID_hw.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 14 tb_reg_ifid_hw 0 22 ;[61o_<zHYQO;3ez1FZB70
+!i122 53
+l33
+L7 65
+VOeSeCeRa7UjR;aMc2QLOT0
+!s100 __OIlR^iUGKO=Q9JQIBP12
+R12
+33
+R241
+!i10b 1
+R242
+R317
+R318
+!i113 0
+R17
+R18
+Exor32
+R19
+R7
+R8
+!i122 63
+R1
+Z319 8/home/jvandrie/CPRE381/Project2/src/xor32.vhd
+Z320 F/home/jvandrie/CPRE381/Project2/src/xor32.vhd
+l0
+R11
+V8j[z_B8=gOQL]NeimZL2B1
+!s100 gKPC1KbK=MQ>Ra?]m5JU60
+R12
+33
+R56
+!i10b 1
+R57
+Z321 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/xor32.vhd|
+Z322 !s107 /home/jvandrie/CPRE381/Project2/src/xor32.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 5 xor32 0 22 8j[z_B8=gOQL]NeimZL2B1
+!i122 63
+l32
+R46
+VkYgYdH8a5Xa3?CL2fIBFB3
+!s100 6N0mffReQW@f6:2Xo4aP<0
+R12
+33
+R56
+!i10b 1
+R57
+R321
+R322
+!i113 0
+R17
+R18
+Exorg2
+R19
+R7
+R8
+!i122 55
+R1
+Z323 8/home/jvandrie/CPRE381/Project2/src/xorg2.vhd
+Z324 F/home/jvandrie/CPRE381/Project2/src/xorg2.vhd
+l0
+R11
+VV6C:miP5l_oAXXFV_WP4`3
+!s100 [hI[mXFH4_j16U;>U1Lfn2
+R12
+33
+Z325 !s110 1639155257
+!i10b 1
+Z326 !s108 1639155257.000000
+Z327 !s90 -reportprogress|300|-work|work|/home/jvandrie/CPRE381/Project2/src/xorg2.vhd|
+Z328 !s107 /home/jvandrie/CPRE381/Project2/src/xorg2.vhd|
+!i113 0
+R17
+R18
+Adataflow
+R7
+R8
+DEx4 work 5 xorg2 0 22 V6C:miP5l_oAXXFV_WP4`3
+!i122 55
+l32
+R53
+V0<8Ik`hGa2ooIj9K`Y3Wc0
+!s100 Z6[FAPS4fBLB`F?OO<AY72
+R12
+33
+R325
+!i10b 1
+R326
+R327
+R328
+!i113 0
+R17
+R18
