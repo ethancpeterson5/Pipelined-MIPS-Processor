@@ -1,0 +1,66 @@
+# //  Questa Sim-64
+# //  Version 2021.2 linux_x86_64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+cd /home/ethanp1/ethanp1/Project2/src
+# reading modelsim.ini
+vcom -reportprogress 300 -work work /home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 18:32:07 on Dec 10,2021
+# vcom -reportprogress 300 -work work /home/ethanp1/ethanp1/Project2/src/ForwardingUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ForwardingUnit
+# -- Compiling architecture behavior of ForwardingUnit
+# End time: 18:32:08 on Dec 10,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd
+# QuestaSim-64 vcom 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 18:32:08 on Dec 10,2021
+# vcom -reportprogress 300 -work work /home/ethanp1/ethanp1/Project2/src/tb_forwardingUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_ForwardingUnit
+# -- Compiling architecture behavior of tb_ForwardingUnit
+# End time: 18:32:08 on Dec 10,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_forwardingunit
+# vsim work.tb_forwardingunit 
+# Start time: 18:32:20 on Dec 10,2021
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_forwardingunit(behavior)#1
+add wave -position insertpoint sim:/tb_forwardingunit/*
+# ** UI-Msg: (vish-4014) No objects found matching '/tb_forwardingunit/*'.
+quit -sim
+# End time: 18:32:42 on Dec 10,2021, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0
+# Optimization canceled
+vsim work.tb_forwardingunit -voptargs=+acc
+# vsim work.tb_forwardingunit -voptargs="+acc" 
+# Start time: 18:33:16 on Dec 10,2021
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_forwardingunit(behavior)#1
+# Loading work.forwardingunit(behavior)#1
+add wave -position insertpoint sim:/tb_forwardingunit/DUT0/*
+run 800

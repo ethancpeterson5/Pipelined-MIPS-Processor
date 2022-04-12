@@ -1,0 +1,13 @@
+Wed Dec 08 13:26:50 CST 2021
+Trace back: invalid command name ".main_pane.cs.2.pw"
+    while executing
+"$w cget -opaqueresize"
+    (procedure "::tk::panedwindow::DragSash" line 2)
+    invoked from within
+"::tk::panedwindow::DragSash $w $_x $_y $opaque"
+    (procedure "::tk::panedwindow::2DDragSash" line 10)
+    invoked from within
+"::tk::panedwindow::2DDragSash .main_pane.cs.9.pw 443 44 2363 260 0"
+    (command bound to event)
+  <2:/usr/local/mentor/questasim/linux_x86_64/tk8.6/bgerror.tcl:106: ::tkerror {invalid command name ".main_pane.cs.2.pw"}
+  <1:eval:1: ::tk::dialog::error::bgerror {invalid command name ".main_pane.cs.2.pw"}
